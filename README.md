@@ -22,13 +22,17 @@ This app uses the GNU Sockets API to establish a Stream based connection with pe
 ## Proof of operation
 
 ### Listen Mode Operation
+
 ![Listen Mode Operation Screengrab] (ListenMode.png)
 
 ### Handling Multiple Connections Operation
+
 ![Handling Multiple Connection Operation Screengrab] (HandlingMConnection.png)
 
 ### Two Connection Mode Processes Operation
+
 ![Two instances of Connection Mode processes Operation Creengrab] (TwoConnectionModeProc.png)
 
 ### Broadcasting Operation
+
 ![Message Broadcasting Operation Screengrab] (MsgBroadcasting.png)
