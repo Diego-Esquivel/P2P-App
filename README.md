@@ -35,4 +35,4 @@ This app uses the GNU Sockets API to establish a Stream based connection with pe
 
 ### Broadcasting Operation
 
-![Message Broadcasting Operation Screengrab] (MsgBroadcasting.png)
+![Message Broadcasting Operation Screengrab] (https://raw.githubusercontent.com/Diego-Esquivel/P2P-App/refs/heads/main/MsgBroadcasting.png)
